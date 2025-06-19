@@ -14,7 +14,10 @@ Este proyecto convierte texto en voz utilizando tecnologías de síntesis de voz
     ```
     git clone https://github.com/tu-usuario/text-to-voice.git
     ```
-2. Instala las dependencias necesarias (ajusta según el lenguaje y framework que uses).
+2. Instala las dependencias necesarias:
+    ```
+    pip install -r requirements.text
+    ```
 
 ## Uso
 
