@@ -13,6 +13,7 @@ import nltk
 
 # Descargar los recursos necesarios de nltk
 nltk.download("punkt")
+nltk.download("punkt_tab")
 
 
 def article_to_mp3(url, output_file):
